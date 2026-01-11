@@ -1,0 +1,23 @@
+islamic_knowledge_bot/
+  bot/
+    __init__.py
+    config.py
+    keyboards/
+      __init__.py
+      user.py
+    handlers/
+      __init__.py
+      user.py
+    middlewares/
+      __init__.py
+    services/
+      __init__.py
+    db/
+      __init__.py
+  logs/
+    .gitkeep
+  main.py
+  requirements.txt
+  .env.example
+  .gitignore
+  README.md
